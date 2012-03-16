@@ -1,0 +1,22 @@
+[15-Oct-2011 05:57:20] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home2/ankurdin/public_html/stonedinc/bubble/index.php on line 81
+[15-Oct-2011 07:09:10] PHP Warning:  file_get_contents(tweeteurope) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home2/ankurdin/public_html/stonedinc/bubble/index.php on line 8
+[15-Oct-2011 07:12:45] PHP Warning:  file_get_contents(tweeteurope) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home2/ankurdin/public_html/stonedinc/bubble/index.php on line 8
+[15-Oct-2011 07:35:53] PHP Warning:  file_get_contents(tweeteurope) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home2/ankurdin/public_html/stonedinc/bubble/index.php on line 8
+[15-Oct-2011 09:32:48] PHP Warning:  file_get_contents(tweetaustralia) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home2/ankurdin/public_html/stonedinc/bubble/index.php on line 8
+[15-Oct-2011 13:56:09] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Delimiter must not be alphanumeric or backslash in /home2/ankurdin/public_html/stonedinc/bubble/trend.php on line 3
+[15-Oct-2011 13:56:34] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Delimiter must not be alphanumeric or backslash in /home2/ankurdin/public_html/stonedinc/bubble/trend.php on line 3
+[15-Oct-2011 13:56:46] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: No ending delimiter '#' found in /home2/ankurdin/public_html/stonedinc/bubble/trend.php on line 3
+[17-Oct-2011 08:01:17] PHP Parse error:  syntax error, unexpected T_STRING in /home2/ankurdin/public_html/stonedinc/trend.php on line 156
+[17-Oct-2011 08:01:21] PHP Parse error:  syntax error, unexpected T_STRING in /home2/ankurdin/public_html/stonedinc/trend.php on line 156
+[17-Oct-2011 08:01:24] PHP Parse error:  syntax error, unexpected T_STRING in /home2/ankurdin/public_html/stonedinc/trend.php on line 156
+[17-Oct-2011 08:01:34] PHP Parse error:  syntax error, unexpected T_STRING in /home2/ankurdin/public_html/stonedinc/trend.php on line 156
+[17-Oct-2011 08:01:49] PHP Parse error:  syntax error, unexpected T_STRING in /home2/ankurdin/public_html/stonedinc/trend.php on line 156
+[17-Oct-2011 08:01:50] PHP Parse error:  syntax error, unexpected T_STRING in /home2/ankurdin/public_html/stonedinc/trend.php on line 156
+[17-Oct-2011 08:01:52] PHP Parse error:  syntax error, unexpected T_STRING in /home2/ankurdin/public_html/stonedinc/trend.php on line 156
+[17-Oct-2011 08:03:08] PHP Parse error:  syntax error, unexpected T_STRING in /home2/ankurdin/public_html/stonedinc/trend.php on line 156
+[18-Oct-2011 03:55:14] PHP Parse error:  syntax error, unexpected '"' in /home2/ankurdin/public_html/stonedinc/trend.php on line 145
+[18-Oct-2011 03:55:16] PHP Parse error:  syntax error, unexpected '"' in /home2/ankurdin/public_html/stonedinc/trend.php on line 145
+[18-Oct-2011 03:55:21] PHP Parse error:  syntax error, unexpected '"' in /home2/ankurdin/public_html/stonedinc/trend.php on line 145
+[18-Oct-2011 03:56:57] PHP Warning:  simplexml_load_file(http://query.yahooapis.com/v1/public/yql?q=SELECT+%2A+FROM+flickr.photos.search+WHERE+api_key%3D%22f48b8900b772fafb4d6653abc1e2bac4%22+AND+text%3D%24ball+LIMIT+8&amp;format=xml) [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/ankurdin/public_html/stonedinc/trend.php on line 148
+[18-Oct-2011 03:56:57] PHP Warning:  simplexml_load_file() [<a href='function.simplexml-load-file'>function.simplexml-load-file</a>]: I/O warning : failed to load external entity &quot;http://query.yahooapis.com/v1/public/yql?q=SELECT+%2A+FROM+flickr.photos.search+WHERE+api_key%3D%22f48b8900b772fafb4d6653abc1e2bac4%22+AND+text%3D%24ball+LIMIT+8&amp;format=xml&quot; in /home2/ankurdin/public_html/stonedinc/trend.php on line 148

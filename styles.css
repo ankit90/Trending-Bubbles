@@ -1,0 +1,209 @@
+* {
+	margin:0;
+	padding:0;
+}
+body  {
+	font-family:Arial, Helvetica, sans-serif;
+	color: #b4b4b4;
+	background:#1a1a1a url(images/pageBack.jpg) no-repeat center top;
+	font-size:12px;
+}
+img {
+	border:0;
+}
+#container { 
+	width: 780px; 
+	margin: 0 auto; 
+} 
+a {
+	color:#4abeee;
+	text-decoration:underline;
+}
+a:hover {
+	color:#4abeee;
+	text-decoration:none;
+}
+#header {
+	padding:30px 0; 
+} 
+.logoContainer {
+	float:left;
+}
+.logo {
+
+
+}
+.iconsSearch {
+	float:right;
+	padding:10px 0 0 0;
+} 
+.icons {
+	float:left;
+	padding:5px 0 0 0;
+}
+.icons li {
+	list-style:none;
+	display:inline;
+}
+.searchContainer {
+	float:right;
+}
+.searchField {
+	border: 0 none;
+    float: left;
+    font-size: 16px;
+    margin: 1px 0 0 4px;
+    padding: 0 0 0 5px;
+    width: 148px;
+	background:url(images/search.png) no-repeat left top;
+	height:24px;
+	color:#989898;
+	font-size:11px;
+}
+input {
+	 -moz-border-radius: 5px 5px 5px 5px;
+} 
+.mainMenu {
+	float:right;
+	padding:10px 0 0 0;
+}
+.mainMenu li {
+	display:inline;
+	list-style:none;
+	padding:0;
+}
+.mainMenu a {
+	color:#ffffff;
+	font-size:14px;
+	padding:3px 7px 5px 7px;
+	font-variant:small-caps;
+	text-decoration:none;
+	-moz-border-radius: 5px 5px 5px 5px;
+	background: -moz-linear-gradient(#797979, #434343) repeat scroll 0 0 transparent;
+    border: 1px solid #908f92;
+    color: #FFFFFF;
+    font-size: 18px;
+    width: 123px;
+}
+.mainMenu a:hover {
+	color:#ffffff;
+	font-size:14px;
+	padding:3px 7px 5px 7px;
+	font-variant:small-caps;
+	text-decoration:none;
+	-moz-border-radius: 5px 5px 5px 5px;
+	background: -moz-linear-gradient(#4ec4f5, #268eb9) repeat scroll 0 0 transparent;
+    border: 1px solid #908f92;
+    color: #FFFFFF;
+    font-size: 18px;
+    width: 123px;
+}
+.mainMenu #active a {
+	color:#ffffff;
+	font-size:14px;
+	padding:3px 7px 5px 7px;
+	font-variant:small-caps;
+	text-decoration:none;
+	-moz-border-radius: 5px 5px 5px 5px;
+	background: -moz-linear-gradient(#4ec4f5, #268eb9) repeat scroll 0 0 transparent;
+    border: 1px solid #908f92;
+    color: #FFFFFF;
+    font-size: 18px;
+    width: 123px;
+}
+.ipadBox {
+	float:left;
+	width:340px;
+}
+.newxBox {
+	margin-left:360px;
+	color:#ffffff;
+	-moz-border-radius: 5px 5px 5px 5px;
+	background: -moz-linear-gradient(#4ec4f5, #268eb9) repeat scroll 0 0 transparent;
+    border: 1px solid #908f92;
+	padding:20px 20px 0 20px;
+}
+.newsTitle {
+	color:#ffffff;
+	font-size:30px;
+	font-family:tahoma;
+	padding-bottom:10px;
+}
+.picRight {
+	float:right;
+	padding:0 0 15px 30px;
+}
+.newsBody {
+	padding-bottom:20px;
+}
+
+.youtube-player {
+	
+}
+
+em {
+	color:#333333;
+}
+.review {
+	-moz-border-radius: 5px 5px 5px 5px;
+	background: -moz-linear-gradient(#ececec, #ececec) repeat scroll 0 0 transparent;
+    border: 1px solid #908f92;
+	padding:20px 20px 0 20px;
+	margin:20px 0 0 0;
+	float:left;
+	width:290px;
+}
+.products {
+	margin:20px 0 0 0;
+	margin-left:360px;
+}
+.reviewTitle {
+	color:#333433;
+	font-size:36px;
+	font-family:tahoma;
+	padding:0 0 0 0;
+}
+.productsTitle {
+	color:#4abeee;
+	font-size:36px;
+	font-family:tahoma;
+	padding:0 0 20px 0;
+}
+.reviewBox {
+	border-bottom:1px solid #7c7c7c;
+	padding:10px 0 0 0;
+}
+.reviewBoxTitle {
+	color:#575757;
+	font-style:italic;
+}
+.reviewBox p {
+	color:#1a1a1a;
+	padding:5px 0 20px 0;
+}
+#footer {
+	background:#4abeee;
+	margin:30px 0 0 0;
+} 
+.footerBody {
+	width:800px;
+	margin:0 auto;
+	color:#353c3f;
+	padding:30px 0;
+	text-align: center;
+	font-size:11px;
+}
+.footerBody a {
+	color:#ffffff;
+	text-decoration:underline;
+}
+.footerbody a:hover {
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
